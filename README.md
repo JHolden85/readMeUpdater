@@ -10,7 +10,7 @@
   
  Github Profile: jholden85
 
-Questions? Contact Mark Shelgren at: vcpug80@yahoo.com
+Questions? Contact Jeremiah Holden at: vcpug80@yahoo.com
 
 ## This application is licensed by 
  [![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
