@@ -1,26 +1,26 @@
-# Homework7
-
-## Usage Instructions 
- Once NPM has been installed you can run the js file using NODE in a terminal
-
-## Application Testing Instructions 
- None at this moment
+## Project Description 
+ This helpful little project will help to stylize your readme files to present a professional readme file
 
 ## Questions 
   
- Github Profile: jholden85
+ Github Profile: Jholden
 
-Questions? Contact Jeremiah Holden at: vcpug80@yahoo.com
+Questions? Contact Mark Shelgren at: vcpug80@yahoo.com
 
 ## This application is licensed by 
  [![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 
 ## Installation Instructions 
- User needs to install NPM, by typing in "NPM install" in the terminal or (gitbash for windows)
+ NPM Install will install the necessary scripts
+
+# Readme Generator
 
 ## Guidelines to Contribute 
- If you would like to contribute to this project please create a seperate branch and ask prior to pushing your branch
+ If you would like to contribute to this project you can reach out to Jeremiah Holden
 
-## Project Description 
- The goal of this project was to create a readme file generator, that would dynamically update a readmen file
+## Application Testing Instructions 
+ 
+
+## Usage Instructions 
+ node index.js is necessary to run this program
 

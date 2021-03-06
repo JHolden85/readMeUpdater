@@ -152,7 +152,7 @@ inquirer
 
 		fs.appendFile(
 			"README.md",
-			`Questions? Contact Mark Shelgren at: ${userAnswers.projUserEmail}` +
+			`Questions? Contact Jeremiah Holden at: ${userAnswers.projUserEmail}` +
 				"\n" +
 				"\n",
 			function (err) {
